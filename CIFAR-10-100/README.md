@@ -1,4 +1,4 @@
-## For datasets CIFAR10 and CIFAR-100
+## For datasets CIFAR-10 and CIFAR-100
 
 ### 3 tasks for CIFAR-10
 - task 1: 40% symmetry
